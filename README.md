@@ -145,3 +145,6 @@ AxxendCorp_House_Price_Prediction/
 ## Results
 
 The Random Forest model was selected as the final model due to its superior performance compared to Linear Regression and Decision Tree models. The model demonstrates good predictive capability with reasonable error metrics and provides valuable insights into the factors that most influence house prices.
+
+
+![Model Performance Comparism with predicted results vs actual results](image.png)
